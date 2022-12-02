@@ -1,0 +1,17 @@
+{
+    "name": "day-2",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "part1": "ts-node part1.ts",
+        "part2": "ts-node part2.ts",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "@types/node": "^18.11.10"
+    }
+}
